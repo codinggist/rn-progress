@@ -1,6 +1,6 @@
 {
-  "name": "rn-progress",
-  "version": "0.1.0",
+  "name": "@codinggist/rn-progress",
+  "version": "0.0.1",
   "description": "Progress indicator components for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
