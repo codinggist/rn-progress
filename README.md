@@ -7,12 +7,12 @@ A progress indicator component for React Native (both Android and iOS)
 Install component by running following command
 
 ```sh
-npm i rn-progress
+npm i @codinggist/rn-progress
 or
-yarn add rn-progress
+yarn add @codinggist/rn-progress
 ```
 
-This componnet is based o React Native basic components. So, linking is not required.
+This componnet is based on React Native basic components. So, linking is not required.
 
 ## Usage
 
@@ -48,6 +48,5 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 MIT
 
 ---
-**Note**
+**Note:**
 This package is under development. Contributors are welcome to work on this package.
----
