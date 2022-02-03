@@ -13,6 +13,7 @@ const ProgressBar: FunctionComponent<ProgressBarProps> = ({
   startValue = 20,
   maxValue = 100,
   currentValue = startValue,
+  backgroundColor = 'transparent',
 }) => {
   let receivedCurrVal = currentValue;
 
@@ -30,6 +31,7 @@ const ProgressBar: FunctionComponent<ProgressBarProps> = ({
           height: height,
           borderWidth: strokeWidth,
           borderColor: strokeColor,
+          backgroundColor: backgroundColor,
         },
       ]}
     >
