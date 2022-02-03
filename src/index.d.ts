@@ -79,6 +79,15 @@ declare module '@@codinggist/rn-progress' {
      * @default 20
      */
     currentValue?: number;
+
+    /**
+     * Current position/value of ProgressBar
+     *
+     * @type {string}
+     * @memberof ProgressBarPropTypes
+     * @default transparent
+     */
+    backgroundColor?: string;
   }
 
   export class ProgressBar extends React.Component<ProgressBarPropTypes> {}

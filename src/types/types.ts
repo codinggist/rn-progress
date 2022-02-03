@@ -7,4 +7,5 @@ export type ProgressBarProps = {
   startValue?: number;
   maxValue?: number;
   currentValue?: number;
+  backgroundColor?: string;
 };
