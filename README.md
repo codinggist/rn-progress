@@ -38,6 +38,7 @@ Following are props to use this component
 | startValue | number | Starting value of progress |
 | maxValue | number | Maximum value of progress |
 | currentValue | number | Current value of progress (can be set using states). If current value is less than start value, it will be neglected and start value will be used as current value. |
+| backgroundColor | string | Background color for bar |
 
 ## Contributing
 
